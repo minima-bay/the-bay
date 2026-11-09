@@ -1,19 +1,27 @@
-# The Bay
+# Minima Bay
 
-Every Minima DeFi app in one place: The Rapids (a fast order book with funds held on chain), The Pool (an on-chain
-venue), The Faucet (test assets) and The Bridge.
+Six Minima DeFi apps in one: The Faucet, The Bridge, The Pool, The Rapids, The Land and The Springboard, with one Minima
+node and one wallet.
 
-**Get it:** [minimabay.org](https://minimabay.org) has the download button, or take the newest `TheBay-<version>.apk`
-from [Releases](https://github.com/minima-bay/the-bay/releases).
+**Where it stands:** in development. Testing with valueless tokens comes next, then production with real tokens. The
+roadmap is on [minimabay.org](https://minimabay.org).
+
+**Get it:** [minimabay.org](https://minimabay.org) has the download button. Android files are published on
+[Releases](https://github.com/minima-bay/the-bay/releases).
 
 ## Install on Android
 
-1. Install **Minima Core** from the Play Store: The Bay uses it as your node and wallet.
-2. Download The Bay's `.apk` from the latest release, open it, and allow installing from your browser if Android asks.
-3. Open The Bay, then in Minima Core, **Applications**, switch The Bay on.
-4. Pour test assets from **The Faucet**, then deposit into **The Rapids** and place an order.
+1. Download the `.apk` from the latest release, open it, and allow installing from your browser if Android asks.
+2. Have a Minima node app on your phone: **Minima Core** from the Play Store, or PandaBear or BlackBear.
+3. Open Minima Bay, then in your node app's Apps, switch Minima Bay on (and Admin, to sign). With more than one node
+   app, choose yours in Minima Bay's Settings, Your node app.
+4. Pour test assets from **The Faucet**, and try **The Rapids**.
 
-Everything runs on test assets with no value. Desktop (Windows, Mac, Linux) is coming.
+Windows, with its own Minima node, is coming.
+
+## Privacy
+
+Who can see your IP address, service by service: [PRIVACY.md](PRIVACY.md).
 
 ## Reports
 
