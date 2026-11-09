@@ -6,10 +6,18 @@ node and one wallet.
 **Where it stands:** in development. Testing with valueless tokens comes next, then production with real tokens. The
 roadmap is on [minimabay.org](https://minimabay.org).
 
-**Get it:** [minimabay.org](https://minimabay.org) has the download button. Android files are published on
-[Releases](https://github.com/minima-bay/the-bay/releases).
+**Get it:** the test release is coming soon, on [minimabay.org](https://minimabay.org).
+
+## Documentation
+
+- [How it works](docs/HOW-IT-WORKS.md): the apps and their mechanics.
+- [Security](docs/SECURITY.md): where assets sit, what you trust today, and what real funds require.
+- [Governance](docs/GOVERNANCE.md): the Stables Council.
+- [The Bridge](docs/BRIDGE.md): how it works and where it stands.
 
 ## Install on Android
+
+Once the test release is out:
 
 1. Download the `.apk` from the latest release, open it, and allow installing from your browser if Android asks.
 2. Have a Minima node app on your phone: **Minima Core** from the Play Store, or PandaBear or BlackBear.
